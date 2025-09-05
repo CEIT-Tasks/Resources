@@ -1,0 +1,34 @@
+C:\Users\konnlori\source\repos\MDIApp\bin\Debug\net8.0-windows\MDIApp.exe
+C:\Users\konnlori\source\repos\MDIApp\bin\Debug\net8.0-windows\MDIApp.deps.json
+C:\Users\konnlori\source\repos\MDIApp\bin\Debug\net8.0-windows\MDIApp.runtimeconfig.json
+C:\Users\konnlori\source\repos\MDIApp\bin\Debug\net8.0-windows\MDIApp.dll
+C:\Users\konnlori\source\repos\MDIApp\bin\Debug\net8.0-windows\MDIApp.pdb
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.Daughter.resources
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.MDIMain.resources
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.csproj.GenerateResource.cache
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.AssemblyInfoInputs.cache
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.AssemblyInfo.cs
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.csproj.CoreCompileInputs.cache
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.dll
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\refint\MDIApp.dll
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.pdb
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\MDIApp.genruntimeconfig.cache
+C:\Users\konnlori\source\repos\MDIApp\obj\Debug\net8.0-windows\ref\MDIApp.dll
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\bin\Debug\net8.0-windows\MDIApp.exe
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\bin\Debug\net8.0-windows\MDIApp.deps.json
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\bin\Debug\net8.0-windows\MDIApp.runtimeconfig.json
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\bin\Debug\net8.0-windows\MDIApp.dll
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\bin\Debug\net8.0-windows\MDIApp.pdb
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.Daughter.resources
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.MDIMain.resources
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.csproj.GenerateResource.cache
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.AssemblyInfoInputs.cache
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.AssemblyInfo.cs
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.csproj.CoreCompileInputs.cache
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.dll
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\refint\MDIApp.dll
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.pdb
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\MDIApp.genruntimeconfig.cache
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MDIApp\obj\Debug\net8.0-windows\ref\MDIApp.dll

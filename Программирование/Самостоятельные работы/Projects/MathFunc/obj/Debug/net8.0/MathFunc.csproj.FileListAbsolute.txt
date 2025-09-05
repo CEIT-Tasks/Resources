@@ -1,0 +1,14 @@
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\bin\Debug\net8.0\MathFunc.exe
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\bin\Debug\net8.0\MathFunc.deps.json
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\bin\Debug\net8.0\MathFunc.runtimeconfig.json
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\bin\Debug\net8.0\MathFunc.dll
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\bin\Debug\net8.0\MathFunc.pdb
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\MathFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\MathFunc.AssemblyInfoInputs.cache
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\MathFunc.AssemblyInfo.cs
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\MathFunc.csproj.CoreCompileInputs.cache
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\MathFunc.dll
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\refint\MathFunc.dll
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\MathFunc.pdb
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\MathFunc.genruntimeconfig.cache
+C:\Users\konnlori\OneDrive\Документы\Колледж\Программирование\Самостоятельные работы\Projects\MathFunc\obj\Debug\net8.0\ref\MathFunc.dll

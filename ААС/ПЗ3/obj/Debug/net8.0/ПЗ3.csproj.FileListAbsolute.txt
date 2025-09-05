@@ -1,0 +1,14 @@
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\bin\Debug\net8.0\ПЗ3.exe
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\bin\Debug\net8.0\ПЗ3.deps.json
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\bin\Debug\net8.0\ПЗ3.runtimeconfig.json
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\bin\Debug\net8.0\ПЗ3.dll
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\bin\Debug\net8.0\ПЗ3.pdb
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\ПЗ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\ПЗ3.AssemblyInfoInputs.cache
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\ПЗ3.AssemblyInfo.cs
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\ПЗ3.csproj.CoreCompileInputs.cache
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\ПЗ3.dll
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\refint\ПЗ3.dll
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\ПЗ3.pdb
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\ПЗ3.genruntimeconfig.cache
+C:\Users\konnl\OneDrive\Документы\Колледж\ААС\ПЗ3\obj\Debug\net8.0\ref\ПЗ3.dll

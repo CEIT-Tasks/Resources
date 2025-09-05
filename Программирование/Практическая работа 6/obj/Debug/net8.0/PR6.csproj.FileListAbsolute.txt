@@ -1,0 +1,14 @@
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\bin\Debug\net8.0\PR6.exe
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\bin\Debug\net8.0\PR6.deps.json
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\bin\Debug\net8.0\PR6.runtimeconfig.json
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\bin\Debug\net8.0\PR6.dll
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\bin\Debug\net8.0\PR6.pdb
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\PR6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\PR6.AssemblyInfoInputs.cache
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\PR6.AssemblyInfo.cs
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\PR6.csproj.CoreCompileInputs.cache
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\PR6.dll
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\refint\PR6.dll
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\PR6.pdb
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\PR6.genruntimeconfig.cache
+C:\Users\konnl\OneDrive\Документы\Колледж\Программирование\Практическая работа 6\obj\Debug\net8.0\ref\PR6.dll
